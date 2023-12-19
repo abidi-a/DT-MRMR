@@ -10,4 +10,4 @@ This repository contains MATLAB code for implementing a Decision Tree (CART) alg
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/abidi-a/DT-MRMR.git
